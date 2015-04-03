@@ -37,6 +37,10 @@ A community driven list of useful Docker links
 * [phusion/baseimage-docker](http://phusion.github.io/baseimage-docker/) - A docker ubuntu 14.04 baseimage done right.
 * [ZNC with Docker](https://github.com/shykes/docker-znc) - Run the ZNC irc bouncer on Docker 
 
+## Useful Docker Articles(Chinese Version)
+
+* [DockerOne - Docker中文交流平台](http://dockerone.com/) by [@李颖杰](http://dockerone.com/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
+
 ## Slides
 
 *Great slides about Docker*
